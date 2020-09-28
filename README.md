@@ -1,2 +1,6 @@
 # Simplification
-Bibliothèque(s) visant à me simplifier la vie
+Bibliothèque(s) en python visant à simplifier la vie des gens.
+Il n'y a qu'un seul module pour l'instant, mais j'en rajouterai sûrement
+
+modules disponibles:
+  -date
