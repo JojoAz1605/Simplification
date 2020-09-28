@@ -1,5 +1,6 @@
 """
-Bibliothèque visant à simplifier le code vis-à-vis des dates.
+Bibliothèque visant à simplifier le code vis-à-vis des dates. J'ai fait en sorte de marquer les 
+entrées/sorties pour que ce soit plus simple.
 (Créé pour les TP de prog)
 """
 
