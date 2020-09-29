@@ -114,3 +114,11 @@ def getNextDay(date):
     
     demain = (day, month, year)
     return demain
+
+def changeFormat(date):
+    day = str(date[0])
+    month = str(date[1])
+    year = str(date[2])
+
+    newFormat = day + "/" + month + "/" + year
+    return newFormat
