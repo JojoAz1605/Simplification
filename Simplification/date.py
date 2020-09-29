@@ -115,6 +115,9 @@ def getNextDay(date):
     demain = (day, convertMonth(month), year)
     return demain
 
+
+#Entrée: date -> tuple(jj, mm, aaaa)
+#Sortie: newFormat -> str
 def changeFormat(date):
     day = str(date[0])
     month = str(date[1])
